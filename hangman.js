@@ -181,6 +181,12 @@ let movies = [
 	'The Jerk',
 	'Raising Arizona',
 	'Paid in Full'
+	'Shaft'
+	'Bullet Train'
+	'Inglorious Basterds'
+	'The Rocker'
+	'Hangman'
+	'Do the Right Thing'
 ];
 
 /* Game */
